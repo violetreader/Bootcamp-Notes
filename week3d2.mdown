@@ -1,0 +1,19 @@
+WEEK3 DAY2
+
+
+this is a markdown file
+
+push this to git. and save your notes!
+
+JS Engines
+turn js syntax into instructions in node (so the code works)
+
+
+the DOM
+parses html so we can use the benefits of manipulating the browser in "runtime"
+
+
+
+
+
+
